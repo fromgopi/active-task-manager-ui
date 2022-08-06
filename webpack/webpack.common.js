@@ -5,4 +5,3 @@ const ESLintPlugin = require('eslint-webpack-plugin');
 const commonPaths = require('./path');
 
 
-
