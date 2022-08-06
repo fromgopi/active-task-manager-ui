@@ -6,4 +6,3 @@ const commonPaths = require('./path');
 
 
 
-
