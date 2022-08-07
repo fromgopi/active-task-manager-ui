@@ -7,4 +7,3 @@ ReactDOM.render(
     <App/>,
     document.getElementById('atm')
 )
-
