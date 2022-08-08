@@ -1,9 +1,15 @@
 @font-face {
     font-family: 'PlayFair';
     src: url('./assets/fonts/Playfair/PlayfairDisplay-Regular.ttf');
-    font-size: 200;
+    font-size: 500;
+}
+
+@font-face {
+    font-family: 'Bebas';
+    src: url('./assets/fonts/BebasNeue/BebasNeue-Regular.ttf');
 }
 
 .main-div {
     font-family: 'PlayFair';
+    font-size: 30px;
 }
