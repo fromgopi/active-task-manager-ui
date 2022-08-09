@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => {
     return(
-        <div>Header Section</div>
+        <div className='header-2'>Header Section</div>
     )
 }
 
