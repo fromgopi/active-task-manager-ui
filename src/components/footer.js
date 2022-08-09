@@ -1,2 +1,1 @@
 // Footer component
-
