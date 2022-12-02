@@ -6,3 +6,4 @@ import './index.scss';
 createRoot(
     document.getElementById("atm")
 ).render(<App/>)
+
