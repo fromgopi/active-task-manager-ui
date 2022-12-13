@@ -11,4 +11,3 @@ module.exports = {
     public: path.resolve(__dirname, "../public"),
 };
 
-
