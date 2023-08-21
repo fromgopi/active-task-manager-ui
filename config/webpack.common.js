@@ -2,8 +2,10 @@ const paths = require("./paths");
 
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 const CopyWebpackPlugin = require("copy-webpack-plugin");  
-const HtmlWebpackPlugin = require("html-webpack-plugin");
-const MiniCssExtractPlugin = require('mini-css-extract-plugin') // extract css to files 
+
+const HtmlWebpackPlugin = require("html-webpack-plugin"); 
+const MiniCssExtractPlugin = require('mini-css-extract-plugin') // extract css to files
+
 const tailwindcss = require('tailwindcss')
 const autoprefixer = require('autoprefixer') // help tailwindcss to work 
 
