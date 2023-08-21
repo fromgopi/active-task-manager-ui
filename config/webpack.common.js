@@ -10,7 +10,7 @@ const autoprefixer = require('autoprefixer') // help tailwindcss to work
 module.exports = {
     // Entry path
     entry: [paths.src + "/index.js"],
-    // Output 
+    // Output  
     output: {
         path: paths.build,
         filename: "[name].bundle.js",
