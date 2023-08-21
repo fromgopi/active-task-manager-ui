@@ -1,4 +1,3 @@
-
 const paths = require("./paths");
 
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
